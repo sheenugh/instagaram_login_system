@@ -1,2 +1,2 @@
-# instagaram_login_system
-This is a repository for instagram login system using tkinter
+# Instagram Login System
+This repository contains an instagram login system using tkinter
